@@ -59,6 +59,28 @@ Build -> run -> ship
 
 ``` docker run -it ubuntu ```
 
+#### Ubuntu Shell (container example)
 
+``` root@944597f61ff0:/# ```
 
+``` apt install nano ```
+
+``` apt update ```
+
+``` apt list ```
+
+#### Windows
+ - Program Files
+ - Windows (OS)
+
+ #### Linux 
+ - bin (binaries)
+ - boot (booting)
+ - dev (devices)
+ - etc (editable text configuration - configuration files)
+ - home (users)
+ - root (root user directory)
+ - lib (software library dependencies)
+ - var (variable updated frequently)
+ - proc (running processes)
 
