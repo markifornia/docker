@@ -74,7 +74,7 @@ Build -> run -> ship
  - Windows (OS)
 
  #### Linux 
- - bin (binaries)
+ - bin (binaries of program/commands)
  - boot (booting)
  - dev (devices)
  - etc (editable text configuration - configuration files)
