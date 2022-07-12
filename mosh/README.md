@@ -57,7 +57,7 @@ Build -> run -> ship
 
 ``` docker ps -a ```
 
-``` docker run it ubuntu ```
+``` docker run -it ubuntu ```
 
 
 
