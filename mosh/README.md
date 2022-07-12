@@ -47,12 +47,17 @@ Build -> run -> ship
 - Third-party libraries
 - Environment variables
 
+### Common docker commands
+
 ``` docker build -t hello-docker ```
 
 ``` docker image ls ```
 
+``` docker run ubuntu ``` or ``` docker pull ubuntu ```
 
+``` docker ps -a ```
 
+``` docker run it ubuntu ```
 
 
 
