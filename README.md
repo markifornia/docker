@@ -2,7 +2,7 @@
 
 This repo is a playground or a more fitting word would be "container" for experimenting and simply trying new things using Sage.
 
-Other frequently libaries will live here as well, such as Tailwind and friends.
+Other frequently used libraries will live here as well, such as Tailwind and friends.
 
 #### Help Resources
 
