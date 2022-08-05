@@ -6,8 +6,25 @@
   <link href="dist/output.css" rel="stylesheet">
 </head>
 <body>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <!-- Navbar -->
+  <nav class="nav relative container mx-auto p-6">
+    <!-- Flex container -->
+    <div class="flex items-center justify-between">
+      <!-- Logo -->
+      <div class="p-2">
+        <img src="img/logo.svg" alt="">
+      </div>
+      <!-- Menu Items -->
+      <div class="hidden md:flex space-x-6">
+        <a href="#" class="text-darkGrayishBlue">Pricing</a>
+        <a href="#" class="text-darkGrayishBlue">Product</a>
+        <a href="#" class="text-darkGrayishBlue">About Us</a>
+        <a href="#" class="text-darkGrayishBlue">Careers</a>
+        <a href="#" class="text-darkGrayishBlue">Community</a>
+      </div>
+      <!-- Button -->
+      <a href="" class="p-3 px-6 pt-2 text-white bg-brightRed rounded-full baseline hover:bg-brightRedLight">Get Started</a>
+    </div>
+  </nav>
 </body>
 </html>
