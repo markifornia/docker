@@ -1,0 +1,1 @@
+[Tailwind Crash Course | Project From Scratch](https://www.youtube.com/watch?v=dFgzHOX84xQ), credits [Travery Media](https://www.youtube.com/c/TraversyMedia)
