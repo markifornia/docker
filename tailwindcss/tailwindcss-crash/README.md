@@ -3,6 +3,5 @@
 ### Resources 
 
 - [Tailwind Installation / Quickstart](https://tailwindcss.com/docs/installation)
-- [Tailwind Installation / Quickstart](https://tailwindcss.com/docs/installation)
 - [Tailwind UI](https://tailwindui.com/documentation)
 - [Background Color](https://tailwindcss.com/docs/background-color)
