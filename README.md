@@ -1,6 +1,8 @@
 ## All things Docker & Sage
 
-This repo is a playground for experimenting and simply trying new things using Sage.
+This repo is a playground or a more fitting word would be "container" for experimenting and simply trying new things using Sage.
+
+Other frequently libaries will live here as well, such as Tailwind and friends.
 
 #### Help Resources
 
